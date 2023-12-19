@@ -1,0 +1,152 @@
+.theme-white .navbar .form-inline .btn {
+    height: 44px!important;
+}
+.card-content{cursor: pointer !important;}
+label.error{
+color:red;
+}
+.logo-admin > img{
+  margin-top:20px;
+  margin-left: -100px;
+}
+#loginpage{
+  margin-top:50px;
+}
+.main-sidebar .sidebar-menu li a {
+	height:40px !important;  }
+
+.main-sidebar .sidebar-menu li .active a {
+   height:40px !important; 
+   background-color: #daffe0 !important; }
+
+#border{
+  background-color: #fff!important;
+}	
+.main-content {    padding-top: 100px !important;}
+table.dataTable.no-footer {
+     border-bottom: 0px  !important; 
+}
+
+
+#bootstrap-data-table-export_wrapper .dt-buttons{
+    margin: 0px 0px 20px 0px;
+}
+.dataTables_scrollBody{height:500px!important;}
+.backbtn{ cursor: pointer;font-weight: 700;
+    color: #67a4f5;border-bottom: 1px solid #67a4f5;
+    /*border-top: 1px solid #67a4f5;*/
+}
+.footerbtn{
+  padding:15px 0px 0px 0px !important;
+}
+#editModal{
+  color:#6777ef;
+}
+
+.main-sidebar .sidebar-menu {
+    padding-top:10px !important;
+}
+
+.main-sidebar .sidebar-brand a .header-logo {
+    height: 65px !important;
+    padding-top: 10px !important;
+}
+.menu-header {
+    color: #000 !important;
+    background-color: #51eaea !important;
+text-align:center ;
+    
+}
+.main-sidebar .sidebar-brand {
+    height: 60px  !important;
+    line-height: 63px !important;
+}
+
+body{
+  font-family:  "Rubik", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji" !important;
+}
+
+ .wrapper{
+  width:70%;
+}
+@media(max-width:992px){
+ .wrapper{
+  width:100%;
+} 
+}
+.panel-heading {
+  padding: 0;
+  border:0;
+}
+.panel-title>a, .panel-title>a:active{
+    display: block;
+    padding-top: 5px;
+    color: #555;
+    font-size: 11px;
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    /* word-spacing: 3px; */
+    text-decoration: none;
+}
+.panel-heading  a:before {
+   font-family: 'Glyphicons Halflings';
+   content: "\e114";
+   float: right;
+   transition: all 0.5s;
+}
+.panel-heading.active a:before {
+  -webkit-transform: rotate(180deg);
+  -moz-transform: rotate(180deg);
+  transform: rotate(180deg);
+}     
+
+
+#aniimated-thumbnials img {
+    height: 200px;
+}
+
+.app-file-list{border:1px solid #ebebeb}
+.app-file-list .app-file-icon{
+  background-color:#f5f5f5;
+  padding:2rem;
+  text-align:center;
+  font-size:2rem;
+  border-bottom:1px solid #ebebeb;
+-webkit-border-top-right-radius:8px;
+-moz-border-radius-topright:8px;
+border-top-right-radius:8px;
+-webkit-border-top-left-radius:8px;
+-moz-border-radius-topleft:8px;
+border-top-left-radius:8px
+}
+.app-file-list:hover{border-color:#d7d7d7}
+
+.app-file-list .dropdown {
+    display: inline;
+}
+.app-file-list .top-0 {
+    top: 0;
+}
+.app-file-list .right-0 {
+    right: 0;
+}
+.app-file-list .fa-ellipsis-v {
+    font-size: 18px !important;
+}
+.lg-outer .lg-thumb-outer,.lg-sub-html {
+  display:none;
+}
+.app-file-list .text-primary{
+color: #1565c0!important;
+}
+.app-file-list .text-success{
+{
+  color: #cc5a5a!important;
+}
+.app-file-icon ~ .text-secondary{
+{
+  color: #a6c!important;
+}
+a.dropdown-item {
+    line-height: 0.7 !important;
